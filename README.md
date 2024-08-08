@@ -18,7 +18,6 @@ Welcome to the Next.js Full-stack starter template! This template provides a sta
 - **Ant Design:** Includes Ant Design for UI components, providing a sleek and modern design out of the box.
 - **Styling:** Style using CSS, SASS, SCSS, or CSS-in-JS.
 
-![Screenshot](https://img.hotimg.com/ss0801c6061e6c5b5d.png)
 
 ---
 
